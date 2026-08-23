@@ -2,7 +2,7 @@
 
 My first Arduino project — blinking an LED using digital output and timed delays.
 
-![Demo](./demo-photo.jpg)
+![Demo](./AurdinoPr1_2.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
