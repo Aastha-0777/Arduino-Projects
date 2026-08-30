@@ -7,9 +7,10 @@ Royal Technosoft.
 
 ## Projects
 
-| # | Project | Description |
-|---|---------|-------------|
-| 01 | [LED Blink](./01-LED-Blink) | Basic digital output control — blinking an LED with timed delays |
+| # | Project | Board | Description |
+|---|---------|-------|-------------|
+| 01 | [LED Blink](./01-LED-Blink) | UNO R4 Minima | Basic digital output control |
+| 02 | [Binary Counter](./02-Binary-Counter) | UNO R4 Minima | LEDs counting in binary using bitwise logic |
 
 More projects added as I build them.
 
