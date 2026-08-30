@@ -3,7 +3,7 @@
 An Arduino project that counts in binary using LEDs — each LED represents 
 a bit, lighting up in the pattern of an incrementing binary number.
 
-![Demo](./demo-photo.jpg)
+![Demo](./BinaryCounter.jpg)
 
 ## Components
 - Arduino UNO R4 Minima
