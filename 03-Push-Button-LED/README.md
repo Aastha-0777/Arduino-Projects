@@ -3,7 +3,7 @@
 An Arduino project where a push button controls an LED — pressing the 
 button turns the LED on, releasing it turns the LED off.
 
-![Circuit Diagram](./PushBtn LED.jpeg)
+![Circuit Diagram](03-Push-Button-LED/PushBtn LED.jpeg)
 
 ## Components
 - Arduino UNO
