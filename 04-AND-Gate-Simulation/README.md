@@ -4,7 +4,7 @@ An Arduino project simulating a digital AND gate using two push buttons
 as inputs and an LED as the output — the LED only turns on when both 
 buttons are pressed simultaneously.
 
-![Circuit Photo](./circuit-photo.jpg)
+![Circuit Photo](./ANDGate.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
