@@ -12,6 +12,7 @@ Royal Technosoft.
 | 01 | [LED Blink](./01-LED-Blink) | UNO R4 Minima | Basic digital output control |
 | 02 | [Binary Counter](./02-Binary-Counter) | UNO R4 Minima | LEDs counting in binary using bitwise logic |
 | 03 | [Push Button LED](./03-Push-Button-LED) | UNO R4 Minima | LED controlled by a push button using digital input/output |
+| 04 | [AND Gate Simulation](./04-AND-Gate-Simulation) | UNO R4 Minima | Digital AND gate logic using two push buttons and an LED |
 
 More projects added as I build them.
 
