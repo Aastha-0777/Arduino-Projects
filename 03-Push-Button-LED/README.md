@@ -6,7 +6,7 @@ button turns the LED on, releasing it turns the LED off.
 ![Circuit Diagram](./PushBtnLED.jpeg)
 
 ## Components
-- Arduino UNO
+- Arduino UNO R4 Minima
 - 1x LED
 - 1x push button
 - 2x resistors (one for the LED, one as a pull-down/pull-up for the button)
