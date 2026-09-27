@@ -4,8 +4,8 @@ An Arduino project that automatically turns an LED on when it gets dark
 and off when there's enough light — using a Light Dependent Resistor 
 (LDR) as an analog light sensor.
 
-![Circuit Photo](./circuit-photo.jpg)
-![Demo - Dark Trigger](./demo-dark.jpg)
+![Circuit Photo](./photosensor2.jpeg)
+![Demo - Dark Trigger](./photosensor1.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
