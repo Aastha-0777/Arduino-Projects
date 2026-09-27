@@ -13,6 +13,7 @@ Royal Technosoft.
 | 02 | [Binary Counter](./02-Binary-Counter) | UNO R4 Minima | LEDs counting in binary using bitwise logic |
 | 03 | [Push Button LED](./03-Push-Button-LED) | UNO R4 Minima | LED controlled by a push button using digital input/output |
 | 04 | [AND Gate Simulation](./04-AND-Gate-Simulation) | UNO R4 Minima | Digital AND gate logic using two push buttons and an LED |
+| 05 | [Half Adder](./05-Half-Adder) | UNO R4 Minima | Binary addition (Sum + Carry) using two push buttons and two LEDs |
 
 More projects added as I build them.
 
