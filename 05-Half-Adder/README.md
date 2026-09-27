@@ -4,7 +4,7 @@ An Arduino project simulating a half adder circuit — two push button
 inputs representing binary digits, and two LED outputs representing 
 the Sum and Carry results.
 
-![Circuit Photo](./circuit-photo.jpg)
+![Circuit Photo](./HalfAdder.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
