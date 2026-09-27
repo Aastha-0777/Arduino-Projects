@@ -14,6 +14,7 @@ Royal Technosoft.
 | 03 | [Push Button LED](./03-Push-Button-LED) | UNO R4 Minima | LED controlled by a push button using digital input/output |
 | 04 | [AND Gate Simulation](./04-AND-Gate-Simulation) | UNO R4 Minima | Digital AND gate logic using two push buttons and an LED |
 | 05 | [Half Adder](./05-Half-Adder) | UNO R4 Minima | Binary addition (Sum + Carry) using two push buttons and two LEDs |
+| 06 | [Auto Night Light](./06-Auto-Night-Light) | UNO R4 Minima | LED automatically triggered by darkness using an LDR sensor |
 
 More projects added as I build them.
 
