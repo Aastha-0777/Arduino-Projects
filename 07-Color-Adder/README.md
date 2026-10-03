@@ -5,7 +5,7 @@ buttons individually control the Red, Green, and Blue channels of an
 RGB LED, and pressing combinations of them mixes those colors together 
 in real time.
 
-![Circuit Photo](./circuit-photo.jpg)
+![Circuit Photo](./colorAdder.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
