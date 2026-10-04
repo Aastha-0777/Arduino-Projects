@@ -3,7 +3,7 @@
 An Arduino project that counts button presses and displays the live 
 count on a 16x2 LCD screen.
 
-![Circuit Photo](./circuit-photo.jpg)
+![Circuit Photo](./LCD.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
