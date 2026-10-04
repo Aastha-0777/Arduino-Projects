@@ -3,7 +3,7 @@
 An Arduino project that measures distance using an ultrasonic sensor 
 and displays the live reading in centimeters on a 16x2 LCD.
 
-![Circuit Photo](./circuit-photo.jpg)
+![Circuit Photo](./UltrasonicSensor.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
