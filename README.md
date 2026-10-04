@@ -16,6 +16,7 @@ Royal Technosoft.
 | 05 | [Half Adder](./05-Half-Adder) | UNO R4 Minima | Binary addition (Sum + Carry) using two push buttons and two LEDs |
 | 06 | [Auto Night Light](./06-Auto-Night-Light) | UNO R4 Minima | LED automatically triggered by darkness using an LDR sensor |
 | 07 | [Color Adder](./07-Color-Adder) | UNO R4 Minima | Additive RGB color mixing using three push buttons and an RGB LED |
+| 08 | [Push Button Counter LCD](./08-Push-Button-Counter-LCD) | UNO R4 Minima | Button press counter displayed live on a 16x2 LCD |
 
 More projects added as I build them.
 
