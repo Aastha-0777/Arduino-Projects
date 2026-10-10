@@ -5,8 +5,8 @@ sensor and displays live readings, including a "feels like" value, on
 a 16x2 LCD. A push button switches the temperature display between 
 Celsius and Fahrenheit.
 
-![Circuit Diagram](./circuit-diagram.png)
-![Circuit Photo](./circuit-photo.jpg)
+![Circuit Diagram](./Diagram.png)
+![Circuit Photo](./WeatherStation.jpeg)
 
 ## Components
 - Arduino UNO R4 Minima
