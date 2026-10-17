@@ -19,6 +19,7 @@ Royal Technosoft.
 | 08 | [Push Button Counter LCD](./08-Push-Button-Counter-LCD) | UNO R4 Minima | Button press counter displayed live on a 16x2 LCD |
 | 09 | [Ultrasonic Distance Meter](./09-Ultrasonic-Distance-Meter) | UNO R4 Minima | Real-time distance measurement displayed on a 16x2 LCD |
 | 10 | [Digital Weather Station](./10-Digital-Weather-Station) | UNO R4 Minima | Live temperature, humidity, and feels-like readings on an LCD, with a button to toggle °C/°F |
+| 11 | [Fire Alarm System](./11-Fire-Alarm-System) | UNO R4 Minima | Flame sensor triggers an LED, buzzer, and LCD alert |
 
 More projects added as I build them.
 
