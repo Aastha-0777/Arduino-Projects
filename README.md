@@ -21,6 +21,7 @@ Royal Technosoft.
 | 10 | [Digital Weather Station](./10-Digital-Weather-Station) | UNO R4 Minima | Live temperature, humidity, and feels-like readings on an LCD, with a button to toggle °C/°F |
 | 11 | [Fire Alarm System](./11-Fire-Alarm-System) | UNO R4 Minima | Flame sensor triggers an LED, buzzer, and LCD alert |
 | 12 | [Secret Knock Door Lock](./12-Secret-Knock-Lock) | UNO R4 Minima | Opens only when the correct knock pattern is detected |
+| 13 | [IR Simon Says](./13-IR-Simon-Says) | UNO R4 Minima | Memory game played with an IR remote, with a growing number sequence |
 
 More projects added as I build them.
 
