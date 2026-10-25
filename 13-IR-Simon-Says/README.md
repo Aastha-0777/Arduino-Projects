@@ -4,7 +4,7 @@ A Simon Says memory game for Arduino, played with an infrared remote.
 The game shows a growing sequence of numbers and you repeat it with the 
 remote's number buttons. Every correct round adds one more step.
 
-![Circuit Photo](./circuit-photo.jpg)
+![Circuit Photo](./IR-SIMON-SAYS.jpeg)
 
 ## How the game plays
 1. **IR SIMON SAYS! / PRESS ANY BUTTON**: press any button to start
